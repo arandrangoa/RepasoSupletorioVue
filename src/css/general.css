@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.formulario{
+    border: solid;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+.grupoFormulario{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: 20px;
+}
+
+.grupoFormulario input{
+    border-radius: 5px;
+}
+
+button{
+    padding: 1px;
+}
+
+table, th, td {
+    border: 1px solid;
+  }
